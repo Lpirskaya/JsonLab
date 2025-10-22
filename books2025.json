@@ -1,0 +1,157 @@
+{
+  "books": [
+    {
+      "AuthorId": "1",
+      "Genre": ["Роман", "Роман воспитания", "Фэнтези", "Приключенческая художественная литература"],
+      "Name": "Гарри Поттер и Дары Смерти",
+      "PublicationDate": "2007",
+      "rating": 9
+    },
+    {
+      "AuthorId": "2",
+      "Genre": ["Роман", "Классика"],
+      "Name": "Анна Каренина",
+      "PublicationDate": "1878",
+      "rating": 8
+    },
+    {
+      "AuthorId": "3",
+      "Genre": ["Детские приключения"],
+      "Name": "Приключение Тома Сойера",
+      "PublicationDate": "1876",
+      "rating": 10
+    },
+    {
+      "AuthorId": "4",
+      "Genre": ["Русская классика"],
+      "Name": "Мертвые души",
+      "PublicationDate": null,
+      "rating": 10
+    },
+    {
+      "AuthorId": "5",
+      "Genre": ["Мистика"],
+      "Name": "Мастер и Маргарита",
+      "PublicationDate": "1967",
+      "rating": 7
+    },
+    {
+      "AuthorId": "6",
+      "Genre": ["Русская классика"],
+      "Name": "Вишневый сад",
+      "PublicationDate": "1904",
+      "rating": 8
+    },
+    {
+      "AuthorId": "7",
+      "Genre": ["Поэзия"],
+      "Name": "Евгений Онегин",
+      "PublicationDate": "1833",
+      "rating": 10
+    },
+    {
+      "AuthorId": "8",
+      "Genre": ["Русская классика"],
+      "Name": "Лолита",
+      "PublicationDate": "1955",
+      "rating": 6
+    },
+    {
+      "AuthorId": "9",
+      "Genre": ["Советская литература"],
+      "Name": "Тихий Дон",
+      "PublicationDate": "1940",
+      "rating": 8
+    },
+    {
+      "AuthorId": "10",
+      "Genre": ["Научная фантастика"],
+      "Name": "451 градус по Фаренгейту",
+      "PublicationDate": "1953",
+      "rating": 6
+    },
+    {
+      "AuthorId": "11",
+      "Genre": ["Зарубежная классика"],
+      "Name": "Триумфальная арка",
+      "PublicationDate": "1945",
+      "rating": 0
+    },
+    {
+      "AuthorId": "12",
+      "Genre": ["Романтические истории"],
+      "Name": "Алые паруса",
+      "PublicationDate": "1923",
+      "rating": 9
+    },
+    {
+      "AuthorId": "13",
+      "Genre": ["Социальная фантастика"],
+      "Name": "Мы",
+      "PublicationDate": "1920",
+      "rating": 2
+    },
+    {
+      "AuthorId": "14",
+      "Genre": ["Русская классика"],
+      "Name": "Герой нашего времени",
+      "PublicationDate": "1836",
+      "rating": 5
+    },
+    {
+      "AuthorId": "15",
+      "Genre": ["Русская классика"],
+      "Name": "Идиот",
+      "PublicationDate": null,
+      "rating": 7
+    },
+    {
+      "AuthorId": "16",
+      "Genre": ["Русская классика"],
+      "Name": "Горе от ума",
+      "PublicationDate": null,
+      "rating": 10
+    },
+    {
+      "AuthorId": "5",
+      "Genre": ["Научная фантастика"],
+      "Name": "Собачье сердце",
+      "PublicationDate": "1925",
+      "rating": 8
+    },
+    {
+      "AuthorId": "17",
+      "Genre": ["Исторические приключения"],
+      "Name": "Три мушкетера",
+      "PublicationDate": "1844",
+      "rating": 10
+    },
+    {
+      "AuthorId": "18",
+      "Genre": ["Мистика"],
+      "Name": "Зеленая миля",
+      "PublicationDate": "1996",
+      "rating": 9
+    }
+  ],
+  "authors": [
+    { "id": "1", "Author": "Джоан Роулинг" },
+    { "id": "2", "Author": "Лев Толстой" },
+    { "id": "3", "Author": "Марк Твен" },
+    { "id": "4", "Author": "Николай Гоголь" },
+    { "id": "5", "Author": "Михаил Булгаков" },
+    { "id": "6", "Author": "Антон Чехов" },
+    { "id": "7", "Author": "Александр Пушкин" },
+    { "id": "8", "Author": "Владимир Набоков" },
+    { "id": "9", "Author": "Михаил Шолохов" },
+    { "id": "10", "Author": "Рэй Брэдбери" },
+    { "id": "11", "Author": "Эрих Мария Ремарк" },
+    { "id": "12", "Author": "Александр Грин" },
+    { "id": "13", "Author": "Евгений Замятин" },
+    { "id": "14", "Author": "Михаил Лермонтов" },
+    { "id": "15", "Author": "Федор Достоевский" },
+    { "id": "16", "Author": "Александр Грибоедов" },
+    { "id": "17", "Author": "Александр Дюма" },
+    { "id": "18", "Author": "Стивен Кинг" }
+  ]
+}
